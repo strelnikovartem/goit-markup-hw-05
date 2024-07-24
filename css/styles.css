@@ -536,7 +536,9 @@ display: flex;
         fill: #f4f4fd;
 }
 
-.subscribe-footer {}
+.subscribe-footer {
+        margin-left: 80px;
+}
 
 .subscribe-text {
         font-weight: 500;
@@ -599,6 +601,7 @@ display: flex;
 
 .subscribe-footer-btn {
         margin-left: 16px;
+        fill: #fff;
         
 }
 
