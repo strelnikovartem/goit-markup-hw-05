@@ -705,6 +705,12 @@ display: flex;
         margin-bottom: 24px;
 }
 
+.modal-privacy:checked + .molal-terms-check > span {
+        background-color: #404bbf;
+        fill: #F4F4FD;
+        border: none;
+}
+
 .molal-terms-check {
         font-size: 12px;
         line-height: 1.7;
@@ -722,6 +728,6 @@ display: flex;
         align-items: center;
         justify-content: center;
         fill: transparent;
-        
+
 }
 
