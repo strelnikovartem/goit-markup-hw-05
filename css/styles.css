@@ -663,7 +663,7 @@ display: flex;
 .modal-close-btn:focus {
         background-color: #404bbf;
         border: none;
-        fill: #ffffff
+        fill: #ffffff;
 
 }
 
