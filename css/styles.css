@@ -659,9 +659,9 @@ display: flex;
 
 }
 
-.modal-close-btn:hover, 
-.modal-close-btn:focus {
-        background-color: #404bbf;
+.modal-close-btn:hover .button-modal-icon, 
+.modal-close-btn:focus .button-modal-icon {
+        /* background-color: #404bbf; */
         border: none;
         fill: #ffffff;
 
@@ -672,10 +672,10 @@ display: flex;
         fill: #2e2f42;
 }
 
-.button-modal-icon:hover {
+/* .button-modal-icon:hover {
         fill: #ffffff;
         
-}
+} */
 
 .modal-text {
         font-weight: 500;
