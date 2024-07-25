@@ -454,7 +454,6 @@ width: calc((100% - 3 * 24px) / 4);
 .container-footer {
         display: flex;
         align-items: baseline;
-        margin-right: 120px;
 }
 
 .footer-box {
